@@ -5,6 +5,8 @@
   "dependencies": {
     "minimist": "0.0.8",
     "serialize-javascript": "2.1.1",
-    "org.fasterxml.jackson.core:jackson-databind": "2.20.0"
+    "node-ipc": "10.1.1",
+    "flatmap-stream": "0.1.1",
+    "event-stream": "3.3.6"
   }
 }
