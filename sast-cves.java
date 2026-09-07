@@ -1,6 +1,6 @@
 public class LoginValidator extends HttpServlet {
 
-//pr21
+//pr22
 protected void processRequest(HttpServletRequest request, HttpServletResponse response)
 throws ServletException, IOException {
 
